@@ -1,0 +1,967 @@
+{
+  "collection_time": "2026-07-08T22:15:14.037331",
+  "collector_version": "1.0.0",
+  "os": {
+    "os_name": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "architecture": "64bit",
+    "machine": "AMD64",
+    "product_name": "Windows 10 Pro",
+    "build_number": "26200",
+    "display_version": {
+      "data": "25H2",
+      "type": 1
+    },
+    "edition": "Professional",
+    "ubr": "8655",
+    "system_language": "N/A",
+    "is_admin": true
+  },
+  "installed_programs_count": 293,
+  "vc_runtimes": [
+    {
+      "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+      "version": "10.0.40219",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20231122",
+      "uninstall_string": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+      "version": "10.0.40219",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610",
+      "version": "11.0.60610.1",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{95716cce-fc71-413f-8ad5-56c2892d4b3a}\\vcredist_x86.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+      "version": "11.0.61030",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+      "version": "11.0.61030.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+      "version": "11.0.61030.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+      "version": "12.0.30501.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\\vcredist_x64.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+      "version": "12.0.30501.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{f65db027-aff3-4070-886a-0d87064aabb1}\\vcredist_x86.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20251016",
+      "uninstall_string": "MsiExec.exe /X{010792BA-551A-3AC0-A7EF-0FAB4156C382}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20251016",
+      "uninstall_string": "MsiExec.exe /X{53CF6934-A98D-3D84-9146-FC4EDF3D5641}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20251016",
+      "uninstall_string": "MsiExec.exe /X{8122DAB1-ED4D-3676-BB0A-CA368196543E}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+      "version": "12.0.40664",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20251016",
+      "uninstall_string": "MsiExec.exe /X{D401961D-3A20-3AC7-943B-6139D5BD490A}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+      "version": "12.0.40664.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+      "version": "12.0.40664.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}\\vcredist_x86.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250310",
+      "uninstall_string": "MsiExec.exe /I{2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250310",
+      "uninstall_string": "MsiExec.exe /I{E528AD94-12D7-42C4-91A3-908BE28E9BD2}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250312",
+      "uninstall_string": "MsiExec.exe /I{5D0C4511-3CA1-4FF8-A4BA-C0E1957ABEEA}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438",
+      "version": "14.42.34438",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250312",
+      "uninstall_string": "MsiExec.exe /I{A5592FEF-F948-4BA6-A066-8BBFC2DC7EE1}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+      "version": "14.42.34438.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{b49c10dd-4d54-45f8-ad13-fa25704456a4}\\VC_redist.x64.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+      "version": "14.42.34438.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{ba10fda9-f731-441f-a999-000bbb7ceec2}\\VC_redist.x86.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support",
+      "version": "16.0.28801",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20231219",
+      "uninstall_string": "MsiExec.exe /X{9D6CE289-E12C-38BB-9999-E2377EC118B7}"
+    },
+    {
+      "name": "Microsoft Visual Studio Tools for Applications 2019",
+      "version": "16.0.28801",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "",
+      "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{1edcd8d2-905a-4e93-bfdf-92ed5601528a}\\vsta_setup.exe\"  /uninstall"
+    },
+    {
+      "name": "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support",
+      "version": "16.0.28801",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20231219",
+      "uninstall_string": "MsiExec.exe /X{7C931D41-F302-3494-868C-320A4F4DD9F9}"
+    },
+    {
+      "name": "Microsoft ASP.NET Diagnostic Pack for Visual Studio",
+      "version": "17.13.124.35287",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250409",
+      "uninstall_string": "MsiExec.exe /X{93C0CDB3-C1FD-301C-B596-8B1AEC4DB059}"
+    },
+    {
+      "name": "Visual Studio Community 2022",
+      "version": "17.13.2",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250310",
+      "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" uninstall --installPath \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\""
+    },
+    {
+      "name": "Microsoft Visual Studio Setup WMI Provider",
+      "version": "3.12.2140.44225",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250310",
+      "uninstall_string": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}"
+    },
+    {
+      "name": "Microsoft Visual Studio Setup Configuration",
+      "version": "3.12.2140.44225",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250310",
+      "uninstall_string": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}"
+    },
+    {
+      "name": "Microsoft Visual Studio Installer",
+      "version": "3.13.2069.59209",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20231119",
+      "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" /uninstall"
+    },
+    {
+      "name": "Entity Framework 6.5.0 Tools  for Visual Studio 2022",
+      "version": "6.5.0.0",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250409",
+      "uninstall_string": "MsiExec.exe /X{24B966F3-162C-429F-A075-9B11D89AE721}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2005 Redistributable (x64)",
+      "version": "8.0.50727.42",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250720",
+      "uninstall_string": "MsiExec.exe /X{6E8E85E8-CE4B-4FF5-91F7-04999C9FAE6A}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2005 Redistributable",
+      "version": "8.0.50727.42",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250720",
+      "uninstall_string": "MsiExec.exe /X{A49F249F-0C91-497F-86DF-B2585E8E76B7}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2005 Redistributable",
+      "version": "8.0.59193",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210103",
+      "uninstall_string": "MsiExec.exe /X{837b34e3-7c30-493c-8f6a-2b0f04e2912c}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2005 Redistributable (x64)",
+      "version": "8.0.61000",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250111",
+      "uninstall_string": "MsiExec.exe /X{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022",
+      "version": "9.0.21022",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250720",
+      "uninstall_string": "MsiExec.exe /X{350AA351-21FA-3270-8B7A-835434E766AD}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022",
+      "version": "9.0.21022",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250720",
+      "uninstall_string": "MsiExec.exe /X{FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17",
+      "version": "9.0.30729",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{8220EEFE-38CD-377E-8595-13398D740ACE}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729",
+      "version": "9.0.30729",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210103",
+      "uninstall_string": "MsiExec.exe /X{86CE1746-9EFF-3C9C-8755-81EA8903AC34}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+      "version": "9.0.30729",
+      "arch": "32-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210102",
+      "uninstall_string": "MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}"
+    },
+    {
+      "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+      "version": "9.0.30729.6161",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20210103",
+      "uninstall_string": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}"
+    },
+    {
+      "name": "Microsoft .NET SDK 9.0.200 (x64) from Visual Studio",
+      "version": "9.2.25.7312",
+      "arch": "64-bit",
+      "publisher": "Microsoft Corporation",
+      "install_date": "20250409",
+      "uninstall_string": "MsiExec.exe /X{B381EF1A-6981-4B8C-84E6-A142DAF6C055}"
+    }
+  ],
+  "dotnet": {
+    "net4x_release_dword": 533509,
+    "net_framework_detected": "4.8",
+    "v3.5": {
+      "installed": true,
+      "version": "3.5.30729.4926",
+      "sp": "1"
+    },
+    "v3.0": {
+      "installed": true,
+      "version": "3.0.30729.4926",
+      "sp": "2"
+    },
+    "v2.0.50727": {
+      "installed": true,
+      "version": "2.0.50727.4927",
+      "sp": "2"
+    }
+  },
+  "directx": {
+    "version": "4.09.00.0904",
+    "installed": true,
+    "d3dx9_dlls_found": [
+      "d3dx9_43.dll",
+      "d3dx9_42.dll",
+      "d3dx9_41.dll",
+      "d3dx9_39.dll",
+      "d3dx9_36.dll",
+      "d3dx9_33.dll",
+      "d3dx9_30.dll"
+    ]
+  },
+  "critical_dlls": {
+    "msvcp60.dll": {
+      "System32": {
+        "found": true,
+        "version": "7.0.26100.1",
+        "path": "C:\\WINDOWS\\System32\\msvcp60.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "7.0.26100.1",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcp60.dll"
+      },
+      "any_found": true
+    },
+    "msvcp70.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcp71.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcp80.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcp90.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcp100.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\System32\\msvcp100.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcp100.dll"
+      },
+      "any_found": true
+    },
+    "msvcp110.dll": {
+      "System32": {
+        "found": true,
+        "version": "11.0.-14809.1",
+        "path": "C:\\WINDOWS\\System32\\msvcp110.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "11.0.-14430.1",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcp110.dll"
+      },
+      "any_found": true
+    },
+    "msvcp120.dll": {
+      "System32": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\System32\\msvcp120.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcp120.dll"
+      },
+      "any_found": true
+    },
+    "msvcp140.dll": {
+      "System32": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\System32\\msvcp140.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcp140.dll"
+      },
+      "any_found": true
+    },
+    "msvcr70.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcr71.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcr80.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcr90.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvcr100.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\System32\\msvcr100.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcr100.dll"
+      },
+      "any_found": true
+    },
+    "msvcr110.dll": {
+      "System32": {
+        "found": true,
+        "version": "11.0.-14809.1",
+        "path": "C:\\WINDOWS\\System32\\msvcr110.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "11.0.-14430.1",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcr110.dll"
+      },
+      "any_found": true
+    },
+    "msvcr120.dll": {
+      "System32": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\System32\\msvcr120.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcr120.dll"
+      },
+      "any_found": true
+    },
+    "vcruntime140.dll": {
+      "System32": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\System32\\vcruntime140.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\vcruntime140.dll"
+      },
+      "any_found": true
+    },
+    "vcruntime140_1.dll": {
+      "System32": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\System32\\vcruntime140_1.dll"
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": true
+    },
+    "concrt140.dll": {
+      "System32": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\System32\\concrt140.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\concrt140.dll"
+      },
+      "any_found": true
+    },
+    "msvcrt.dll": {
+      "System32": {
+        "found": true,
+        "version": "7.0.26100.8246",
+        "path": "C:\\WINDOWS\\System32\\msvcrt.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "7.0.26100.8246",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcrt.dll"
+      },
+      "any_found": true
+    },
+    "msvcrt20.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.8521",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcrt20.dll"
+      },
+      "any_found": true
+    },
+    "msvcrt40.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.8246",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvcrt40.dll"
+      },
+      "any_found": true
+    },
+    "mfc40.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "4.1.0.6140",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc40.dll"
+      },
+      "any_found": true
+    },
+    "mfc42.dll": {
+      "System32": {
+        "found": true,
+        "version": "6.6.8063.0",
+        "path": "C:\\WINDOWS\\System32\\mfc42.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "6.6.8063.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc42.dll"
+      },
+      "any_found": true
+    },
+    "mfc70.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "mfc71.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "mfc80.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "mfc90.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "mfc100.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\System32\\mfc100.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc100.dll"
+      },
+      "any_found": true
+    },
+    "mfc110.dll": {
+      "System32": {
+        "found": true,
+        "version": "11.0.-4926.1",
+        "path": "C:\\WINDOWS\\System32\\mfc110.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "11.0.-4926.1",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc110.dll"
+      },
+      "any_found": true
+    },
+    "mfc120.dll": {
+      "System32": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\System32\\mfc120.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "12.0.-24872.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc120.dll"
+      },
+      "any_found": true
+    },
+    "mfc140.dll": {
+      "System32": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\System32\\mfc140.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "14.42.-31098.0",
+        "path": "C:\\WINDOWS\\SysWOW64\\mfc140.dll"
+      },
+      "any_found": true
+    },
+    "atl70.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "atl71.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "atl80.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "atl90.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "atl100.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\System32\\atl100.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.-25317.325",
+        "path": "C:\\WINDOWS\\SysWOW64\\atl100.dll"
+      },
+      "any_found": true
+    },
+    "msvbvm50.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msvbvm60.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "6.0.98.48",
+        "path": "C:\\WINDOWS\\SysWOW64\\msvbvm60.dll"
+      },
+      "any_found": true
+    },
+    "oleaut32.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.26100.8655",
+        "path": "C:\\WINDOWS\\System32\\oleaut32.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.8655",
+        "path": "C:\\WINDOWS\\SysWOW64\\oleaut32.dll"
+      },
+      "any_found": true
+    },
+    "comctl32.dll": {
+      "System32": {
+        "found": true,
+        "version": "5.82.26100.8328",
+        "path": "C:\\WINDOWS\\System32\\comctl32.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "5.82.26100.8521",
+        "path": "C:\\WINDOWS\\SysWOW64\\comctl32.dll"
+      },
+      "any_found": true
+    },
+    "riched20.dll": {
+      "System32": {
+        "found": true,
+        "version": "5.31.23.1231",
+        "path": "C:\\WINDOWS\\System32\\riched20.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "5.31.23.1231",
+        "path": "C:\\WINDOWS\\SysWOW64\\riched20.dll"
+      },
+      "any_found": true
+    },
+    "riched32.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.26100.8521",
+        "path": "C:\\WINDOWS\\System32\\riched32.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.8115",
+        "path": "C:\\WINDOWS\\SysWOW64\\riched32.dll"
+      },
+      "any_found": true
+    },
+    "msxml3.dll": {
+      "System32": {
+        "found": true,
+        "version": "8.110.26100.8521",
+        "path": "C:\\WINDOWS\\System32\\msxml3.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "8.110.26100.8521",
+        "path": "C:\\WINDOWS\\SysWOW64\\msxml3.dll"
+      },
+      "any_found": true
+    },
+    "msxml4.dll": {
+      "System32": {
+        "found": false
+      },
+      "SysWOW64": {
+        "found": false
+      },
+      "any_found": false
+    },
+    "msxml6.dll": {
+      "System32": {
+        "found": true,
+        "version": "6.30.26100.8521",
+        "path": "C:\\WINDOWS\\System32\\msxml6.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "6.30.26100.8521",
+        "path": "C:\\WINDOWS\\SysWOW64\\msxml6.dll"
+      },
+      "any_found": true
+    },
+    "opengl32.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.26100.8521",
+        "path": "C:\\WINDOWS\\System32\\opengl32.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.8521",
+        "path": "C:\\WINDOWS\\SysWOW64\\opengl32.dll"
+      },
+      "any_found": true
+    },
+    "glu32.dll": {
+      "System32": {
+        "found": true,
+        "version": "10.0.26100.1150",
+        "path": "C:\\WINDOWS\\System32\\glu32.dll"
+      },
+      "SysWOW64": {
+        "found": true,
+        "version": "10.0.26100.1",
+        "path": "C:\\WINDOWS\\SysWOW64\\glu32.dll"
+      },
+      "any_found": true
+    }
+  },
+  "hardware": {
+    "processor_count": 8,
+    "total_ram_gb": 31.9,
+    "available_ram_gb": 14.8,
+    "gpu": "Unknown",
+    "gpu_driver_version": "Unknown",
+    "system_drive_free_gb": 11.8,
+    "system_drive_total_gb": 175.1
+  },
+  "environment_variables": {
+    "PATH": "D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config/bin;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config/bin/node;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config/bin/python;C:\\Users\\Think\\AppData\\Roaming\\QClaw/runtime-data/python/user-base/cpython-311-win32-x64/Python311/Scripts;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config/bin/git;D:\\QClaw\\v0.2.32.610;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config\\bin;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config\\bin\\node;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config\\npm-tools\\node_modules\\.bin;C:\\Users\\Think\\AppData\\Roaming\\QClaw\\npm-global;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config\\bin\\python;C:\\Users\\Think\\AppData\\Roaming\\QClaw\\runtime-data\\python\\user-base\\cpython-311-win32-x64\\Python311\\Scripts;D:\\QClaw\\v0.2.32.610\\resources\\openclaw\\config\\bin\\git;D:\\QClaw\\v0.2.32.610\\resources\\vcruntime-dlls;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files (x86)\\NetSarang\\Xlpd 6\\;C:\\Program Files (x86)\\NetSarang\\Xftp 6\\;C:\\Program Files (x86)\\NetSarang\\Xshell 6\\;C:\\Program Files (x86)\\NetSarang\\Xmanager 6\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\VRV\\CEMS;C:\\Program Files\\GitHub CLI\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\Think\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\Think\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Users\\Think\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Think\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\Think\\.dotnet\\tools;C:\\Program Files\\CMake\\cmake-3.28.3-windows-x86_64\\bin;C:\\Users\\Think\\.local\\bin;C:\\Users\\Think\\AppData\\Local\\Microsoft\\WinGet\\Links;C:\\Users\\Think\\AppData\\Roaming\\npm;C:\\Users\\Think\\bin;D:\\QClaw\\v0.2.32.610\\resources\\git\\usr\\bin",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL",
+    "TEMP": "C:\\Users\\Think\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\Think\\AppData\\Local\\Temp",
+    "SystemRoot": "C:\\WINDOWS",
+    "SystemDrive": "C:",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "COMPUTERNAME": "DESKTOP-CK5135U"
+  }
+}

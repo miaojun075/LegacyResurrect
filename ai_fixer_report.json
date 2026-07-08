@@ -1,0 +1,46 @@
+{
+  "status": "repaired",
+  "attempts": 1,
+  "history": [
+    {
+      "attempt": 1,
+      "error": {
+        "crashed": true,
+        "is_flash_crash": true,
+        "timed_out": false,
+        "exit_code": 3221225781,
+        "exit_code_hex": "0xc0000135",
+        "runtime_ms": 920.001745223999,
+        "exception": null,
+        "stderr_tail": [
+          "[FATAL] 无法加载遗留运行库 legacy_runtime.dll",
+          "[FATAL] 错误码: 126 (0x0000007E)",
+          "[FATAL] 请将 legacy_runtime.dll 放置到程序目录后重试"
+        ],
+        "stdout_tail": [
+          "================================",
+          "FakeLegacyApp v2.1.0",
+          "Built: 2008-11-15 (Shanghai)",
+          "Target: Windows XP SP3",
+          "================================",
+          "[INFO] 正在加载遗留运行库..."
+        ],
+        "signature": "DLL_NOT_FOUND"
+      },
+      "ai_response": {
+        "action": "copy_dll",
+        "target": "legacy_runtime.dll",
+        "parameters": {
+          "dll_name": "legacy_runtime.dll",
+          "expected_source": "application-specific legacy runtime",
+          "bits": 32,
+          "destination_subdir": ""
+        },
+        "reason": "Exit code 0xC0000135 (DLL_NOT_FOUND) and stderr explicitly state '无法加载遗留运行库 legacy_runtime.dll' and '错误码: 126 (0x0000007E)', confirming missing custom DLL. This is not a standard Microsoft runtime, so it must be manually supplied to the app directory.",
+        "confidence": "high"
+      },
+      "ai_raw": "{\n  \"action\": \"copy_dll\",\n  \"target\": \"legacy_runtime.dll\",\n  \"parameters\": {\n    \"dll_name\": \"legacy_runtime.dll\",\n    \"expected_source\": \"application-specific legacy runtime\",\n    \"bits\": 32,\n    \"destination_subdir\": \"\"\n  },\n  \"reason\": \"Exit code 0xC0000135 (DLL_NOT_FOUND) and stderr explicitly state '无法加载遗留运行库 legacy_runtime.dll' and '错误码: 126 (0x0000007E)', confirming missing custom DLL. This is not a standard Microsoft runtime, so it must be manually supplied to the app directory.\",\n  \"confidence\": \"high\"\n}"
+    }
+  ],
+  "final_error": null
+}

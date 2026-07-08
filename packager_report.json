@@ -1,0 +1,44 @@
+{
+  "status": "needs_ai_fix",
+  "app_name": "FakeLegacyApp",
+  "classification": "PURE_GREEN",
+  "workspace_path": "C:\\Users\\Think\\AppData\\Local\\Temp\\Legacy_MVP_Workspace\\FakeLegacyApp",
+  "copy_result": {
+    "source_path": "C:\\Users\\Think\\.qclaw\\workspace-x74fgmx0vyb8p5is\\legacy-migration-mvp\\FakeLegacyApp",
+    "dest_path": "C:\\Users\\Think\\AppData\\Local\\Temp\\Legacy_MVP_Workspace\\FakeLegacyApp\\app",
+    "file_count": 4,
+    "total_bytes": 9605
+  },
+  "registry_file": null,
+  "executable": "C:\\Users\\Think\\AppData\\Local\\Temp\\Legacy_MVP_Workspace\\FakeLegacyApp\\app\\FakeLegacyApp.exe",
+  "process_result": {
+    "crashed": true,
+    "is_flash_crash": true,
+    "timed_out": false,
+    "exit_code": 3221225781,
+    "runtime_ms": 920.001745223999
+  },
+  "error_info": {
+    "crashed": true,
+    "is_flash_crash": true,
+    "timed_out": false,
+    "exit_code": 3221225781,
+    "exit_code_hex": "0xc0000135",
+    "runtime_ms": 920.001745223999,
+    "exception": null,
+    "stderr_tail": [
+      "[FATAL] 无法加载遗留运行库 legacy_runtime.dll",
+      "[FATAL] 错误码: 126 (0x0000007E)",
+      "[FATAL] 请将 legacy_runtime.dll 放置到程序目录后重试"
+    ],
+    "stdout_tail": [
+      "================================",
+      "FakeLegacyApp v2.1.0",
+      "Built: 2008-11-15 (Shanghai)",
+      "Target: Windows XP SP3",
+      "================================",
+      "[INFO] 正在加载遗留运行库..."
+    ],
+    "signature": "DLL_NOT_FOUND"
+  }
+}
