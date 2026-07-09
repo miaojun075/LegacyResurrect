@@ -8,3 +8,8 @@ depot/runtimes/
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Release assets (publish as GitHub Releases instead)
+*.zip
+xinresurrect_comparison.png
+xinresurrect_demo_small.gif
